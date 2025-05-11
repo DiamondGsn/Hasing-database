@@ -1,0 +1,5 @@
+Ivanov;Ivan;Ivanovich
+Kuznetsov;Matvey;Sergeevich
+Pyatin;Pavel;Aleksandrovich
+Zhurlov;Zahar;Olegovich
+Ivanov;Ilya;Ilyich
